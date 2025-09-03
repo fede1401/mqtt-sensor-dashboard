@@ -461,5 +461,8 @@ message(STATUS "Configuration complete!")
 ```
 Stampa un messaggio durante la configurazione (come un `printf`)
 
+## Preview Dashboard
+<img width="300" height="500" alt="dashboard" src="https://github.com/user-attachments/assets/172bedaf-524f-43e4-b6fe-dbe73270536f" />
+
 
 
